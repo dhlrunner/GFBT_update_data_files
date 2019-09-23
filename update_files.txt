@@ -1,5 +1,5 @@
 data/info_texts/equip.b64,409bb65dc7792f9c015e53f6d08194c1
-data/info_texts/guns.b64,ed1bc4b2d9a45129edf12505a12f6930
+data/info_texts/guns.b64,e4b576cd839658bc8f0ddad7f75545f2
 data/info_texts/mission.b64,6445dbb6baf69fcf539b708b9762ed92
 data/info_texts/skins.b64,d41d8cd98f00b204e9800998ecf8427e
 data/json/default_gun.json,39c436e53562b2c979beab60aa8719c8
