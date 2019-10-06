@@ -15,6 +15,6 @@ data/json/spot_info.json,53d2b0f55ef1c5de75be7ace920ba4ea
 data/json/test.json,beb0e3cb2a94e39f56cc12551cc78b4e
 data/json/token.json,3c9462af665acc390357740c776837ff
 data/json/userinfo.json,86dc050da38a815d4dc7e7ea5c44076d
-data/json/version.json,3b5772bcba9932c5dfc5ead61d88264f
+data/json/version.json,12fd69d0db6d4c156db68a9741da3f36
 data/json/version_jp.json,6c58a49fe347991fa5416744b12713de
 data/xml/index.xml,833b6dbe2e4ea5522b0426b0ec77d261
