@@ -8746,7 +8746,30 @@
 			"intercd": 8,
 			"code": "powBuffSelf"
 		}
-	}, {
+	}, 
+	{
+		"id": 239,
+		"name": "Type03",
+		"krName": "03식",
+		"enName": "",
+		"jpName": "",
+		"rank": 3,
+		"type": "ar",
+		"buildTime": 0,
+		"stats": {
+			"hp": 105,
+			"pow": 120,
+			"hit": 125,
+			"dodge": 102,
+			"speed": 100,
+			"rate": 110,
+			"armorPiercing": 15,
+			"crit": 20,
+			"bullet": 0
+		},
+		"grow": 105,
+	},
+	{
 		"id": 1001,
 		"name": "BB_Noel",
 		"krName": "노엘",
@@ -9739,7 +9762,50 @@
 			"intercd": "",
 			"code": "dodgeBuffSelf"
 		}
-	}, {
+	}, 
+	{
+		"id": 20103,
+		"name": "UMP45Mod",
+		"rank": 5,
+		"type": "smg",
+		"illust": "ZAGALA",
+		"voice": "Tomomi Mineuchi",
+		"buildTime": 8100,
+		"drop": "35",
+		"stats": {
+			"hp": 108,
+			"pow": 105,
+			"hit": 110,
+			"dodge": 120,
+			"speed": 100,
+			"rate": 105,
+			"armorPiercing": 10,
+			"crit": 5
+		},
+		"grow": 110,
+		"effect": {
+			"effectType": "ar",
+			"effectCenter": 5,
+			"effectPos": [1, 2, 3],
+			"gridEffect": {
+				"pow": 20,
+				"crit": 30
+			}
+		},
+		"skill": {
+			"realid": 801801,
+			"cd": [20, 19.6, 19.1, 18.7, 18.2, 17.8, 17.3, 16.9, 16.4, 16],
+			"intercd": 1,
+			"code": "Smoke"
+		},
+		"skill2": {
+			"realid": 801804,
+			"cd": "",
+			"intercd": "",
+			"code": "ShortCircuit"
+		}
+	},
+	{
 		"id": 20103,
 		"name": "UMP45Mod",
 		"rank": 5,
