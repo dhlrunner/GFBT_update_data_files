@@ -13,7 +13,6 @@ data/json/equip.json,2956f8a69496ef0db441ef91b47d5c5f
 data/json/equip_e.json,f745de1faf93f997d68dc5bd671840db
 data/json/gun_e.json,7698c51448b5ccc1299cdd42bbc7aaf1
 data/json/mail.json,40675008728be114e839b0b5d3f3b6ad
-data/json/settings.json,01c3979fedd17bfae9ca9603266b8b17
 data/json/spot_info.json,4240b5df1f37c554ef929e2f63b92177
 data/json/t.json,34feb744e5a8556d3c39ca1f9a1884c2
 data/json/test.json,beb0e3cb2a94e39f56cc12551cc78b4e
